@@ -23,7 +23,7 @@ int main()
     // int age = 20;
 
     // char
-    char ch = 'a';
+    // char ch = 'a';
     // char ch2 = 'ab'; // ! MULTIPLE CHARACTERS NOT ALLOWED
     // cout << ch2 << endl;
 
@@ -32,6 +32,10 @@ int main()
 
     // double
     double d = 365.345678;
+
+    // bool
+    bool found = false;
+    cout << found << endl;
 
     /*sizeof*/
     char ch = 'A';
